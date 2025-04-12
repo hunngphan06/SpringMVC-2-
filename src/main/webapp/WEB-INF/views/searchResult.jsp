@@ -15,7 +15,7 @@
     } else {
 %>
     <div class="text-center mt-5">
-        <img src="<%= request.getContextPath() %>/resources/images/not-found.jpg"
+        <img src="<%= request.getContextPath() %>/resources/images/not-found-404.jpg"
              alt="Không tìm thấy"
              class="img-fluid"
              style="max-width: 300px;">
